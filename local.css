@@ -1,0 +1,84 @@
+@media screen and (max-width:576px){
+    .main-title{
+        height: 100px;
+    }
+
+    .main-title h3{ 
+        font-size: 20px;
+    }
+    
+    .main-title h2{
+        font-size: 30px;
+    }
+
+    .service-title h2,
+    .resume-title h2{
+        font-size: 22px;
+    }
+
+    #about .main-title h2:after {
+        margin-left: 40px;
+    }
+
+    .cantent-portfolio>div{
+        /* justify-content: center;
+        padding: 0 auto; */
+        margin-left: 25px;
+    }
+
+    .text>ul>li>a{
+        text-decoration: none;
+        color: white;
+        text-transform: capitalize;
+        font-size: 10px;
+        font-family: 'Montserrat', sans-serif;
+        padding: 10px;
+    }
+}
+    @media screen and (min-width:577px){
+        .text>section{
+            margin-top: 100px;
+        }
+
+        .cantent-portfolio>div{
+            margin-left: 60px;
+        }
+
+        .text>ul>li>a{
+            text-decoration: none;
+            color: white;
+            text-transform: capitalize;
+            font-size: 10px;
+            font-family: 'Montserrat', sans-serif;
+            padding: 10px;
+        }
+
+    }
+    @media screen and (min-width:768px){
+        .contact-boxs>div:nth-of-type(2) h4{
+            font-size: 12px;
+        }
+
+        .cantent-portfolio>div{
+            margin-left: 20px;
+        }
+
+        .text>ul>li>a{
+            text-decoration: none;
+            color: white;
+            text-transform: capitalize;
+            font-size: 15px;
+            font-family: 'Montserrat', sans-serif;
+            padding: 15px;
+        }
+    
+    }
+    @media screen and (min-width:992px){
+        .text>section{
+            margin-top: 150px;
+        }
+  
+    }
+    @media screen and (min-width:1200px){
+    
+    }
