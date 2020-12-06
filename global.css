@@ -125,7 +125,7 @@ a:visited{
 }
 
 .text{
-    background-image: url(../pic/2.jpeg);
+    background-image: url(../2.jpeg);
     background-repeat: repeat;
     background-color: #2a2a2e;
     width: 100%;
@@ -239,7 +239,7 @@ a:visited{
     width: calc(100vw - 128px);
     visibility: hidden;
     opacity: 0;
-    background: url(../pic/2.jpeg) repeat #2a2a2e;
+    background: url(../2.jpeg) repeat #2a2a2e;
     margin: 0;
     transform: scaleX(0);
     transform-origin: left;
@@ -532,7 +532,7 @@ a:visited{
 }
 
 .skills{
-    background: url(../pic/2.jpeg) repeat #2a2a2e;
+    background: url(../2.jpeg) repeat #2a2a2e;
     color: #fff;
     border: 2px solid #2e2e31;
     border-radius: 4px;
@@ -568,7 +568,7 @@ a:visited{
     bottom: -5px;
     left: 50%;
     padding: 4px;
-    background: url(../pic/2.jpeg) repeat #2a2a2e;
+    background: url(../2.jpeg) repeat #2a2a2e;
     border: 1px solid #c79864;
     border-color: transparent #c79864 #c79864 transparent;
     transform: translateX(-50%) rotate(45deg);
@@ -661,7 +661,7 @@ a:visited{
 }
 
 .items>h4{
-    background: url(../pic/2.jpeg) repeat #2a2a2e;
+    background: url(../2.jpeg) repeat #2a2a2e;
     border: 1px solid #35353a;
     border-radius: 4px;
     color: #c79864;
